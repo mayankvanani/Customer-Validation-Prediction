@@ -10,4 +10,4 @@ Dataset contains various customers' credentials for past 6 months. Out of the cu
 * epochs: **250**
 * optimizer: **rmsprop**
 * batch_size: **32**
-* Dropout Regularization: Yes
+* Dropout Regularization: **Yes**
