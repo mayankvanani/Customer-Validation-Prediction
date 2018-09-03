@@ -13,4 +13,4 @@
 * epochs: **250**
 * optimizer: **rmsprop**
 * batch_size: **32**
-* Dropout Regularization: **10%**
+* Dropout Regularization: **10%** (after every convolution performed in the model)
