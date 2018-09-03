@@ -5,9 +5,10 @@
  - Used **Grid Search** Algorithm to optimize the hyperparameters.
 
 
+## Model Report
+
 **Optimisation Parameters**: _epochs_ , _optimizer_, and _batch_size_.
 
-## Model Report
 * accuracy: **86.6%**
 * epochs: **250**
 * optimizer: **rmsprop**
