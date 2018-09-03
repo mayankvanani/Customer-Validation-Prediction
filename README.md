@@ -1,7 +1,9 @@
 # Customer-Validation-Prediction
 
 ## Summary
-Dataset contains various customers' credentials for past 6 months. Out of the customers bank wishes to find which of his customers are more likely to leave. So using Deep learning techniques of implementation and optimisation, model has been designed.
+ - Dataset contains various customers' credentials for past 6 months. Out of the customers bank wishes to find which of his customers are      more likely to leave. So using Deep learning techniques of implementation and optimisation, model has been designed.
+ - Used **Grid Search** Algorithm to optimize the hyperparameters.
+
 
 **Optimisation Parameters**: _epochs_ , _optimizer_, and _batch_size_.
 
